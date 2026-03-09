@@ -14,4 +14,5 @@ coneccion es el nombre que le dí a la instancia de la clase
 modelo1 coneccion = new modelo1();
 
 codigo de la clase:
+
 <img width="447" height="577" alt="imagen" src="https://github.com/user-attachments/assets/34e694d8-b6ca-44d5-be9f-179e1bf589ac" />
